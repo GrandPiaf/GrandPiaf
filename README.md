@@ -16,7 +16,7 @@ I'm in my second and last year of the Master's degree in Video Game Programming 
 - 🌀 Sci-fi, Space-Opera & Post-Apocalyptic are my passion.
 - 🎧 And I listen to plenty of music (Mostly [Into the Breach](https://open.spotify.com/album/5HaoWXvyhc7jFlPb0vCVfM) to concentrate while working) :
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=111704723&cover_image=true&theme=natemoo-re)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=111704723&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=111704723&redirect=true)
 
 <hr>
 
