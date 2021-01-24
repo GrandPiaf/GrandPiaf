@@ -1,5 +1,16 @@
 # Hello there ! 👋 I'm Nicolas ! ![visitors](https://visitor-badge.laobi.icu/badge?page_id=grandpiaf.grandpiaf) [![Github](https://img.shields.io/github/followers/GrandPiaf?label=Followers&logo=Github)](https://github.com/GrandPiaf)
 
+## 📄 I'm actively looking for an internship in France & Europe beginning the 10th May 2021 ! Do not hesitate to check on my resume made in LateX : [FR](french_resume.pdf) | [EN](english_resume.pdf)
+
+## ✉️ Find me on :
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/nicolascalvet) : [Nicolas Calvet](https://www.linkedin.com/in/nicolascalvet/)
+
+[![GMail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white)](nicolas.calvetgp@gmail.com) : nicolas.calvetgp@gmail.com
+
+
+<hr>
+
 ## ⚡️ A bit about Myself
 
 Hi ! I'm Nicolas Calvet, a Video Game Programmer from France.
@@ -17,17 +28,6 @@ I'm in my second and last year of the Master's degree in Video Game Programming 
 - 🎧 And I listen to plenty of music (Mostly [Into the Breach](https://open.spotify.com/album/5HaoWXvyhc7jFlPb0vCVfM) to concentrate while working) :
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=111704723&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=111704723&redirect=true)
-
-<hr>
-
-## 📄 I'm actively looking for an internship in France & Europe beginning the 10th May 2021 ! Do not hesitate to check on my resume made in LateX : [FR](french_resume.pdf) | [EN](english_resume.pdf)
-
-## ✉️ Find me on :
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/nicolascalvet) : [Nicolas Calvet](https://www.linkedin.com/in/nicolascalvet/)
-
-[![GMail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white)](nicolas.calvetgp@gmail.com) : nicolas.calvetgp@gmail.com
-
 
 
 <hr>
