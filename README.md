@@ -15,7 +15,8 @@
 
 Hi ! I'm Nicolas Calvet, a Video Game Programmer from France.
 
-I'm in my second and last year of the Master's degree in Video Game Programming & Development at [Gamagora](https://icom.univ-lyon2.fr/gamagora) in Lyon. 
+I'm in my second and last year of the Master's degree in Video Game Programming & Development at [Gamagora](https://icom.univ-lyon2.fr/gamagora) in Lyon.
+My native language is French and I am autonomous in English !
 
 - 💻 I am currently working on one of the three Gamagora Game Projects : [Snowy Path](https://github.com/Snowy-Path/Snowy-Path) !
 - ⚙️ I am learning Unity & Unreal Engine 4.
