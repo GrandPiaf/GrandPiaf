@@ -34,17 +34,17 @@ I'm in my second and last year of the Master's degree in Video Game Programming 
 
 ## 🔧 Languages & Tools & Abilities
 
-![](https://img.shields.io/badge/Code-C/C++-informational?style=for-the-badge&logo=c&logoColor=white&color=e38b19)![](https://img.shields.io/badge/Code-CS-informational?style=for-the-badge&logo=c-sharp&logoColor=white&color=e38b19)
+![](https://img.shields.io/badge/Code-C/C++-informational?style=for-the-badge&logo=c&logoColor=white&color=e38b19) ![](https://img.shields.io/badge/Code-CS-informational?style=for-the-badge&logo=c-sharp&logoColor=white&color=e38b19)
 
-![](https://img.shields.io/badge/ENGINE-Unity-informational?style=for-the-badge&logo=unity&logoColor=white&color=004dba)![](https://img.shields.io/badge/ENGINE-Unreal Engine 4-informational?style=for-the-badge&logo=unreal-engine&logoColor=white&color=004dba)
+![](https://img.shields.io/badge/ENGINE-Unity-informational?style=for-the-badge&logo=unity&logoColor=white&color=004dba) ![](https://img.shields.io/badge/ENGINE-Unreal Engine 4-informational?style=for-the-badge&logo=unreal-engine&logoColor=white&color=004dba)
 
-![](https://img.shields.io/badge/API-OpenGL-informational?style=for-the-badge&logo=opengl&logoColor=white&color=6aa6f8)![](https://img.shields.io/badge/API-GLM-informational?style=for-the-badge&logo=opengl&logoColor=white&color=6aa6f8)![](https://img.shields.io/badge/API-SFML-informational?style=for-the-badge&logo=opengl&logoColor=white&color=6aa6f8)![](https://img.shields.io/badge/API-GLFW-informational?style=for-the-badge&logo=opengl&logoColor=white&color=6aa6f8)![](https://img.shields.io/badge/API-GLUT-informational?style=for-the-badge&logo=opengl&logoColor=white&color=6aa6f8)![](https://img.shields.io/badge/API-GLAD-informational?style=for-the-badge&logo=opengl&logoColor=white&color=6aa6f8)![](https://img.shields.io/badge/API-GLSS / HLSL-informational?style=for-the-badge&logo=opengl&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/API-OpenGL-informational?style=for-the-badge&logo=opengl&logoColor=white&color=6aa6f8) ![](https://img.shields.io/badge/API-GLM-informational?style=for-the-badge&logo=opengl&logoColor=white&color=6aa6f8) ![](https://img.shields.io/badge/API-SFML-informational?style=for-the-badge&logo=opengl&logoColor=white&color=6aa6f8) ![](https://img.shields.io/badge/API-GLFW-informational?style=for-the-badge&logo=opengl&logoColor=white&color=6aa6f8) ![](https://img.shields.io/badge/API-GLUT-informational?style=for-the-badge&logo=opengl&logoColor=white&color=6aa6f8) ![](https://img.shields.io/badge/API-GLAD-informational?style=for-the-badge&logo=opengl&logoColor=white&color=6aa6f8) ![](https://img.shields.io/badge/API-GLSS / HLSL-informational?style=for-the-badge&logo=opengl&logoColor=white&color=6aa6f8)
 
 ![](https://img.shields.io/badge/Tools-Git-informational?style=for-the-badge&logo=git&logoColor=white&color=14852a) ![](https://img.shields.io/badge/Tools-SourceTree-informational?style=for-the-badge&logo=git&logoColor=white&color=14852a)
 
-![](https://img.shields.io/badge/Editor-Visual Studio-informational?style=for-the-badge&logo=Visual-Studio&logoColor=white&color=59216e)![](https://img.shields.io/badge/Editor-Sublime Text-informational?style=for-the-badge&logo=sublime-text&logoColor=white&color=59216e)
+![](https://img.shields.io/badge/Editor-Visual Studio-informational?style=for-the-badge&logo=Visual-Studio&logoColor=white&color=59216e) ![](https://img.shields.io/badge/Editor-Sublime Text-informational?style=for-the-badge&logo=sublime-text&logoColor=white&color=59216e)
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=linux&logoColor=white&color=169e95)![](https://img.shields.io/badge/OS-Windows-informational?style=for-the-badge&logo=windows&logoColor=white&color=169e95)
+![](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=linux&logoColor=white&color=169e95) ![](https://img.shields.io/badge/OS-Windows-informational?style=for-the-badge&logo=windows&logoColor=white&color=169e95)
 
 
 
