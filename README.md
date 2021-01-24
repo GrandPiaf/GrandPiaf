@@ -11,7 +11,7 @@
 
 <hr>
 
-## ⚡️ A bit about Myself
+## ⚡️ A bit about myself
 
 Hi ! I'm Nicolas Calvet, a Video Game Programmer from France.
 
@@ -20,8 +20,11 @@ I'm in my second and last year of the Master's degree in Video Game Programming 
 - 💻 I am currently working on one of the three Gamagora Game Projects : [Snowy Path](https://github.com/Snowy-Path/Snowy-Path) !
 - ⚙️ I am learning Unity & Unreal Engine 4.
 - 💾 With C/C++, C#, Java & 42 more.
-- 🎞  I made a [raytracer](https://github.com/GrandPiaf/Raytracer) in C++17.
+- 🎞 I made a [raytracer](https://github.com/GrandPiaf/Raytracer) in C++17.
 - 🧱 I worked on multiple projects with Level Designers.
+- 🎓 I learned to work as a Gameplay, Engine, Rendering, Artificial Intelligence and Sound Video Game Programmer.
+- 🔎 Also, my skills makes me able to work on Image Processing, Real-Time 3D, Virtual Reality and Artificial Reality.
+- 🎬 It means I can work on fields outisde the game development !
 - 🔉 I tried making sound design for a small video game project with LMMS & FMod Studio.
 - 🎮 My preferred video games type ? FPS, Indie & RPGs ! I love playing those !
 - 🌀 Sci-fi, Space-Opera & Post-Apocalyptic are my passion.
