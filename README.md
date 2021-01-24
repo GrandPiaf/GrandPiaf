@@ -32,7 +32,7 @@ I'm in my second and last year of the Master's degree in Video Game Programming 
 
 <hr>
 
-## 🔧 Languages & Tools & Abilities
+## 🔧 Languages & Tools
 
 ![](https://img.shields.io/badge/Code-C/C++-informational?style=for-the-badge&logo=c&logoColor=white&color=e38b19) ![](https://img.shields.io/badge/Code-CS-informational?style=for-the-badge&logo=c-sharp&logoColor=white&color=e38b19)
 
