@@ -1,6 +1,6 @@
 # Hello there ! 👋 I'm Nicolas ! ![visitors](https://visitor-badge.laobi.icu/badge?page_id=grandpiaf.grandpiaf) [![Github](https://img.shields.io/github/followers/GrandPiaf?label=Followers&logo=Github)](https://github.com/GrandPiaf)
 
-## 📄 I'm actively looking for an internship in France & Europe beginning the 10th May 2021 ! Do not hesitate to check on my resume made in LateX : [FR](french_resume.pdf) | [EN](english_resume.pdf)
+## 📄 I'm actively looking for an internship in France & Europe beginning the 10th May 2021 ! Do not hesitate to check on my resume made in LateX : [FR](FR_CV.pdf) | [EN](EN_CV.pdf)
 
 ## ✉️ Find me on :
 
