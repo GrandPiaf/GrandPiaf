@@ -66,9 +66,9 @@ My native language is French and I am autonomous in English !
     <a href="https://github.com/grandpiaf/Biome-and-Vegetation-PCG">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=grandpiaf&repo=Biome-and-Vegetation-PCG&show_owner=true&theme=radical" />
     </a>
-    <a href="https://github.com/grandpiaf/guigamebou">
+<!--     <a href="https://github.com/grandpiaf/guigamebou">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=grandpiaf&repo=guigamebou&show_owner=true&theme=radical" />
-    </a>
+    </a> -->
     <a href="https://github.com/grandpiaf/WProject">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=grandpiaf&repo=WProject&show_owner=true&theme=radical" />
     </a>
