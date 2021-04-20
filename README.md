@@ -20,7 +20,7 @@ My native language is French and I am autonomous in English !
 
 - 💻 I am currently working on one of the three Gamagora Game Projects : [Snowy Path](https://github.com/Snowy-Path/Snowy-Path) !
 - ⚙️ I am learning Unity & Unreal Engine 4.
-- 💾 With C/C++, C#, Java & 42 more.
+- 💾 With C/C++, C#, Java & more.
 - 🎞 I made a [raytracer](https://github.com/GrandPiaf/Raytracer) in C++17.
 - 🧱 I worked on multiple projects with Level Designers.
 - 🎓 I learned to work as a Gameplay, Engine, Rendering, Artificial Intelligence and Sound Video Game Programmer.
