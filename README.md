@@ -13,23 +13,22 @@
 
 ## ⚡️ A bit about myself
 
-Hi ! I'm Nicolas Calvet, a Video Game Programmer from France.
-
-I'm in my second and last year of the Master's degree in Video Game Programming & Development at [Gamagora](https://icom.univ-lyon2.fr/gamagora) in Lyon.
+Hi ! I'm Nicolas Calvet, I'm currently working as a Unity Game Programmer learning to become a Rendering Programmer. I live in Montpellier, France.
 My native language is French and I am autonomous in English !
 
-- 💻 I am currently working on one of the three Gamagora Game Projects : [Snowy Path](https://github.com/Snowy-Path/Snowy-Path) !
-- ⚙️ I am learning Unity & Unreal Engine 4.
+- 💻 I worked on the porting of Gear.Club Unlimited 2 - Ultimate Edition.
+- 💻 As my final University project I worked on [Snowy Path](https://github.com/Snowy-Path/Snowy-Path) : https://gamagora.itch.io/snowy-path (development ended) !
+- ⚙️ I work on Unity & I learned Unreal Engine 4.
 - 💾 With C/C++, C#, Java & more.
 - 🎞 I made a [raytracer](https://github.com/GrandPiaf/Raytracer) in C++17.
 - 🧱 I worked on multiple projects with Level Designers.
 - 🎓 I learned to work as a Gameplay, Engine, Rendering, Artificial Intelligence and Sound Video Game Programmer.
 - 🔎 Also, my skills makes me able to work on Image Processing, Real-Time 3D, Virtual Reality and Artificial Reality.
 - 🎬 It means I can work on fields outisde the game development !
-- 🔉 I tried making sound design for a small video game project with LMMS & FMod Studio.
+- 🔉 I tried making sound design for a small video game project with LMMS & FMod Studio (sadly the repository doesn't exist anymore :'( ).
 - 🎮 My preferred video games type ? FPS, Indie & RPGs ! I love playing those !
-- 🌀 Sci-fi, Space-Opera & Post-Apocalyptic are my passion.
-- 🎧 And I listen to plenty of music (Mostly [Into the Breach](https://open.spotify.com/album/5HaoWXvyhc7jFlPb0vCVfM) to concentrate while working) :
+- 🌀 Sci-fi, Space-Opera & Post-Apocalyptic are the type of games and books I play and read the most.
+- 🎧 And I listen to plenty of music :
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=111704723&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=111704723&redirect=true)
 
